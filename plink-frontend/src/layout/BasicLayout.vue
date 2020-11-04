@@ -28,7 +28,7 @@ export default {
   name: "BasicLayout",
   data() {
     return {
-      collapsed: false,
+      collapsed: false
     };
   },
   components: {
